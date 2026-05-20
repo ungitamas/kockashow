@@ -49,8 +49,8 @@ A sablonban több részt is átalakítottam:
 
 ## Készítő
 
-Készítette: `név`
+Készítette: `Ungi Tamás`
 
 ## Megjegyzés
 
-Ez a weboldal tanulási céllal készült.
+Ez a weboldal oktatási céllal készült.
